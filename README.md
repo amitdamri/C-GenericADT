@@ -11,4 +11,4 @@ Generic ADT that will help us with the worldAtlas (the previous project).
 ## How does it work?
 run the following command:
 ```./Globe <HashNumber>< numberOfCountries><configuration>```
-while <HashNumber> is the required size of the hashtable, and the other parameters are the same as the previous project.
+while "HashNumber" is the required size of the hashtable, and the other parameters are the same as the previous project.
